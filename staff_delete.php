@@ -10,7 +10,7 @@
 
 try
 {
-//コメント追加しました
+
 $staff_code=$_GET['staffcode'];
 
 $dsn = 'mysql:dbname=shop;host=mysql';
